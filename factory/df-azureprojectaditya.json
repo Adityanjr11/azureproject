@@ -1,0 +1,9 @@
+{
+	"name": "df-azureprojectaditya",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "98caeb08-cd2f-46ee-864b-403975868ea5",
+		"tenantId": "1ee4bea0-6900-42cb-916f-78e8bf8c6a95"
+	}
+}
