@@ -300,7 +300,7 @@
 			}
 		],
 		"parameters": {
-			"schemaa": {
+			"schema": {
 				"type": "string"
 			},
 			"table": {
